@@ -1,3 +1,5 @@
+[Link al video](https://youtu.be/1dHGsloG8Jk)
+
 # First, Follow y Tabla de Análisis Sintáctico LL(1)
 
 Implementación en Python para calcular FIRST, FOLLOW y construir la tabla de análisis predictivo LL(1).
